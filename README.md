@@ -41,7 +41,7 @@ curl -X POST <HOSTNAME>/generate-pdf \
 
 Replace <HOSTNAME> with the server's hostname, and set `url` equal to the webpage you wish to convert.
 
-There are additiona, though optional, parameters including:
+There are additional, though optional, parameters including:
 
 ```
 {
