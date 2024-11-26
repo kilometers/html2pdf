@@ -1,6 +1,6 @@
 # Welcome
 
-This is an humble express server which accepts a url and returns raw PDF data.
+This is an humble NodeJS Express server which accepts a url and returns raw PDF data.
 
 # Getting Started
 
