@@ -3,7 +3,7 @@
 Clone the repo to your local environment
 
 ```
-git clone
+git clone https://github.com/kilometers/html2pdf.git
 ```
 
 Install dependencies using `yarn`
