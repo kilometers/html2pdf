@@ -47,6 +47,6 @@ There are additional, though optional, parameters including:
 {
   "horizontal": true    // Generate a landscape PDF, default is true
   "format": "A3"        // Page format, default is "A4"
-  "scale": 1            // Page
+  "scale": 1            // Zoom factor when rendering, default is 0.5
 }
 ```
